@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { 
+      "source": "/:match*", 
+      "destination": "bihterstellar-production.up.railway.app*" 
+    }
+  ]
+}
